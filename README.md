@@ -18,5 +18,5 @@ Team members names :
 1-Ahmed Samir Abd Elbasit 
 2-Aya Abd Elhameed Elsayed 
 3-Aya Adel Abd Elaty Elsayed 
-4-Cathrine Morad Abdullah
+4-Catehrine Mourad Abdullah
 5-Rogina Romani Waheeb 
