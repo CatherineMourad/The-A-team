@@ -175,7 +175,7 @@ def show_eye():
 
 
 
-#Aya Abdelhamid (Eye and face detection and adding the glasses)
+#Aya Abdelhamid (Eye and face detection and coding the algorithm to add the glasses)
 def put_glasses(x,glasses):
     if x==1:
         # start video capture
