@@ -10,8 +10,7 @@ face_cascade        = cv2.CascadeClassifier('Classifiers/haarcascade_frontalface
 eyes_cascade        = cv2.CascadeClassifier('Classifiers/frontalEyes35x16.xml')
 
 
-#Ahmed Samir (Code integration cv with TKinter)
-#Rogina romani,Cathrine(Organizing the UI adding buttons and more glasses)
+#Ahmed Samir , Rogina romani , Cathrine Mourad (Code integration cv with TKinter , Creating the UI & adding buttons and more glasses)
 
 #start the application class
 class App:
