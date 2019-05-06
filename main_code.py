@@ -153,7 +153,7 @@ class App:
 
         window.mainloop()
 
-#Aya Adel(Functions to show the glasses, modifying the glasses photos in the Sun_glasses and eye_glasses folders)
+#Aya Adel(Functions to show the glasses, modifying the glasses photos in the Sun_glasses and eye_glasses folders to fit the faces)
 def show_sun():
     btn0.grid(row=9, column=1)
     btn1.grid(row=10, column=1)
